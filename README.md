@@ -37,7 +37,7 @@ int(18)
 ### Prerequisites
 
 * **PHP** >= 7.4+
-* **Ethereum RPC client** ([furqansiddiqui/ethereum-rpc](https://github.com/matrix543/ethereum-rpc/)) > 1.0
+* **Ethereum RPC client** ([matrix543/ethereum-rpc](https://github.com/matrix543/ethereum-rpc/)) > 1.0
 
 ## ABI
 
