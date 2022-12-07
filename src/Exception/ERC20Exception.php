@@ -1,7 +1,7 @@
 <?php
 /**
- * This file is a part of "furqansiddiqui/erc20-php" package.
- * https://github.com/furqansiddiqui/erc20-php
+ * This file is a part of "matrix543/erc20-php" package.
+ * https://github.com/matrix543/erc20-php
  *
  * Copyright (c) 2020 Furqan A. Siddiqui <hello@furqansiddiqui.com>
  *
