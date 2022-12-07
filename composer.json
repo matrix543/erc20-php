@@ -1,5 +1,5 @@
 {
-  "name": "furqansiddiqui/erc20-php",
+  "name": "matrix543/erc20-php",
   "type": "library",
   "description": "Interact with any ERC20 standard Ethereum token",
   "keywords": [
@@ -13,9 +13,9 @@
   ],
   "license": "MIT",
   "require": {
-    "php": ">=7.1.0",
+    "php": ">=7.4||8.0",
     "ext-bcmath": "*",
-    "furqansiddiqui/ethereum-rpc": "^0.1.5"
+    "matrix543/ethereum-rpc": "^0.1.5"
   },
   "autoload": {
     "psr-4": {
